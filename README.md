@@ -1,16 +1,20 @@
 # HTML color Alphabet
-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 With this alphabet, you can encrypt any inscription in the sequence of alternating colors. Good tool for web artist.
 С помощью этого алфавита можно зашифровать любую надпись на английском в последовательности чередующихся цветов. Хороший инструмент для веб-художника.
-
 
 How to use? Encrypted text can be decrypted using the eyedropper tool. App coming soon.
 Как использовать? Зашифрованный текст можно расшифровать с помощью инструмента "пипетка". Приложение - скоро выход. 
 
+Software product HTML color alphabet is a powerful artist tool. With it, you can encrypt any information in a predetermined range of colors. For example, private key from the wallet with bitcoins.  Then the paint will increase in value ::)  
+Another example: people of art will be able to create pictures on which you can put bitcoins.
+
+In the Serious future, will be developed applications that will recognize color sequences on any surface and read them as a QR code.
+
 Donation for app developers  1GEsTALTjZ2fGubdcKxfM6daPEHCznVyio
 
 
-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Microsoft Shared Source Limited Community License (MS-LCL)
 Published: 2005
