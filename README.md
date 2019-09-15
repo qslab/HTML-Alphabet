@@ -79,3 +79,5 @@ The prices shown represent an estimated retail price and relate to the licensing
 CLOSER HTML color alphabet
 
 Allowed distribution, commercial use, prohibited modification.
+
+2019
