@@ -1,5 +1,6 @@
 # HTML color Alphabet
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 With this alphabet, you can encrypt any inscription in the sequence of alternating colors. Good tool for web artist.
 С помощью этого алфавита можно зашифровать любую надпись на английском в последовательности чередующихся цветов. Хороший инструмент для веб-художника.
 
@@ -13,7 +14,8 @@ In the Serious future, will be developed applications that will recognize color 
 
 Donation for app developers  1GEsTALTjZ2fGubdcKxfM6daPEHCznVyio
 
-
+https://bitcointalk.org/index.php?board=250.0
+https://bitcointalk.org/index.php?topic=5184864.0
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Microsoft Shared Source Limited Community License (MS-LCL)
