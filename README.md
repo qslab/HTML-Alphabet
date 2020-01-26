@@ -2,10 +2,10 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 With this alphabet, you can encrypt any inscription in the sequence of alternating colors. Good tool for web artist.
-How to use? Encrypted text can be decrypted using the eyedropper tool at HTML-Alphabet.PNG 
+How to use? Encrypted text can be decrypted using the eyedropper tool at HTML Alphabet.PNG 
 
 С помощью этого алфавита можно зашифровать любую надпись на английском в последовательности чередующихся цветов. Хороший инструмент для веб-художника.
-Чтобы узнать какому цвету соответствует код, воспользуйтесь HTML-Alphabet.PNG 
+Чтобы узнать какому цвету соответствует код, воспользуйтесь HTML Alphabet.PNG 
 
 Как использовать? Зашифрованный текст можно расшифровать с помощью инструмента "пипетка". Каждый отдельный цвет соответствует знаку или букве. 
 
