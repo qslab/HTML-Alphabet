@@ -2,11 +2,61 @@
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 With this alphabet, you can encrypt any inscription in the sequence of alternating colors. Good tool for web artist.
+How to use? Encrypted text can be decrypted using the eyedropper tool at HTML-Alphabet.PNG 
 
 С помощью этого алфавита можно зашифровать любую надпись на английском в последовательности чередующихся цветов. Хороший инструмент для веб-художника.
+Чтобы узнать какому цвету соответствует код, воспользуйтесь HTML-Alphabet.PNG 
 
-How to use? Encrypted text can be decrypted using the eyedropper tool. App coming soon.
-Как использовать? Зашифрованный текст можно расшифровать с помощью инструмента "пипетка". Приложение - скоро выход. 
+Как использовать? Зашифрованный текст можно расшифровать с помощью инструмента "пипетка". Каждый отдельный цвет соответствует знаку или букве. 
+
+Палитра используется в соответствием с мнемоническим правилом для создания Павловской рефлекторно-ассоциативной дуги.
+Например: если вы заметили, то большинство букв соответствуют первой букве в названии цвета. 
+А - aqua
+C - chocolate
+D - darkgreen
+F - forestgreen
+G - gold
+H - hotpink
+I - indigo 
+...etc.
+
+Мнемоническое правило работает и для вот этих примеров. В них мнемоническое правило получается из ударения, орфографически или из второй буквы в слове. 
+
+B - rosyBrown
+j - navaJowhite
+K - darkKhaki
+Q - aQuamarine
+U - blUe
+X - fuCHSia (prononsed like fuXia)
+Z - aZure (second letter)
+
+Цвета цифр: 
+
+
+One - Orchid
+Two Tan
+Three - Tomato
+four - Firebrick
+Five - lemonchiFFon
+Six -darkSeagreen
+Seven - Siena 
+Eight - pAleviolEtrEd
+Nine - goldeNrod
+zerO - Orange
+@ (SOBAKA) - CadetBlue
+Point - Plum
+!!!! - criiiimson
+
+А теперь разберем использование на конкретном примере: 
+знаменитая певица Тэйлор Свифт использует в своих видео много зашифрованных посланий. 
+Такие зашифрованные послания теперь можно делать с помощью 
+Встраивание в логотип на одежде. 
+
+Фактически - у вас полная свобода в использовании этого языка. В будущем, вместе С улучшением возможностей искусственного интеллекта и разрешающей способности камер, улучшиться понимание этого нового языка устройствами и человеком. 
+
+Если достаточно долго провести времени рядом с этим алфавитом, то все ассоциации запоминаются, и ты сможешь читать этот новый язык без использования линейки. 
+
+Я мечтаю, чтобы этот новый язык обрел популярность среди звезд. Мода и биткоин с помощью его найдут о чем поговорить. 
 
 Software product HTML color alphabet is a powerful artist tool. With it, you can encrypt any information in a predetermined range of colors. For example, private key from the wallet with bitcoins.  Then the paint will increase in value ::)  
 Another example: people of art will be able to create pictures on which you can put bitcoins.
@@ -83,4 +133,4 @@ Closer to HTML color alphabet
 
 Allowed distribution, commercial use, prohibited modification.
 
-2019
+2019 by Vladimir Yan
