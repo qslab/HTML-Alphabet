@@ -12,39 +12,64 @@ How to use? Encrypted text can be decrypted using the eyedropper tool at HTML-Al
 Палитра используется в соответствием с мнемоническим правилом для создания Павловской рефлекторно-ассоциативной дуги.
 Например: если вы заметили, то большинство букв соответствуют первой букве в названии цвета. 
 А - aqua
+
 C - chocolate
+
 D - darkgreen
+
 F - forestgreen
+
 G - gold
+
 H - hotpink
+
 I - indigo 
+
 ...etc.
 
 Мнемоническое правило работает и для вот этих примеров. В них мнемоническое правило получается из ударения, орфографически или из второй буквы в слове. 
 
 B - rosyBrown
+
 j - navaJowhite
+
 K - darkKhaki
+
 Q - aQuamarine
+
 U - blUe
+
 X - fuCHSia (prononsed like fuXia)
+
 Z - aZure (second letter)
 
 Цвета цифр: 
 
 
 One - Orchid
-Two Tan
+
+Two - Tan
+
 Three - Tomato
+
 four - Firebrick
+
 Five - lemonchiFFon
+
 Six -darkSeagreen
-Seven - Siena 
+
+Seven - Siena
+
 Eight - pAleviolEtrEd
+
 Nine - goldeNrod
+
 zerO - Orange
+
 @ (SOBAKA) - CadetBlue
+
 Point - Plum
+
 !!!! - criiiimson
 
 А теперь разберем использование на конкретном примере: 
